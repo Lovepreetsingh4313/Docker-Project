@@ -205,12 +205,12 @@
 		<repository>
 			<id>repo-1-release</id>
 			<name>repo-1-release</name>
-			<url>http://15.206.168.77:8081/repository/repo-1-release/</url>
+			<url>http://13.232.166.170:8081/repository/repo-1-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>repo-2-snapshot</id>
 			<name>repo-2-snapshot</name>
-			<url>http://15.206.168.77:8081/repository/repo-2-snapshot/</url>
+			<url>http://13.232.166.170:8081/repository/repo-2-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
